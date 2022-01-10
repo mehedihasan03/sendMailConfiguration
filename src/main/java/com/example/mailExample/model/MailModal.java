@@ -1,4 +1,4 @@
-package com.example.mailExample;
+package com.example.mailExample.model;
 
 public class MailModal {
 
